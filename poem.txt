@@ -7,5 +7,6 @@ Yellow
 Orange
 Red
 Purple
+Unicorn
 
-These are the color of Rainbow.
+These are the color of Rainbow and the Unicorn.
