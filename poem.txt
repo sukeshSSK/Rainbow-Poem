@@ -6,5 +6,6 @@ Green
 Yellow
 Orange
 Red
+Purple
 
 These are the color of Rainbow.
