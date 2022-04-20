@@ -4,6 +4,7 @@ Indigo
 Blue
 Green
 Yellow
+Recycle!
 Orange
 Red
 Purple
